@@ -266,14 +266,10 @@ A complete, daily record of my web dev journey — frontend, backend & full-stac
 
 ---
 
-## 🌊 My Contribution Calendar
+## ⚡ Entering The Matrix
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00d4ff/S-AM-GUPTA" alt="Saksham's Contribution Chart" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d1b69,100:0d1117&height=2&width=100%"/>
+  <img src="./matrix.svg" width="100%" alt="Matrix Animation"/>
 </p>
 
 <br/>
