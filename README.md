@@ -199,11 +199,11 @@ A complete, daily record of my web dev journey — frontend, backend & full-stac
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=S-AM-GUPTA&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-AM-GUPTA&theme=tokyonight)
 
 </div>
 
@@ -215,8 +215,15 @@ A complete, daily record of my web dev journey — frontend, backend & full-stac
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=S-AM-GUPTA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-AM-GUPTA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-AM-GUPTA&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-AM-GUPTA&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-AM-GUPTA&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=S-AM-GUPTA&theme=tokyonight&utcOffset=5.5)
 
 </div>
 
