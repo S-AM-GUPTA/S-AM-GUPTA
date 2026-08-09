@@ -266,10 +266,10 @@ A complete, daily record of my web dev journey — frontend, backend & full-stac
 
 ---
 
-## 🕹️ GitHub Contribution Arcade
+## 🕹️ Snake Eating My Contributions
 
 <p align="center">
-  <img src="./pacman.svg" width="100%" alt="Pac-Man Arcade"/>
+  <img src="https://raw.githubusercontent.com/S-AM-GUPTA/S-AM-GUPTA/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" width="100%"/>
 </p>
 
 <br/>
