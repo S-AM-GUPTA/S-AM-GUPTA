@@ -1,93 +1,130 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0a0a0f,20:0d1117,45:1a1a2e,70:16213e,100:0f3460&text=Saksham%20Gupta&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20AI%20Explorer&descSize=20&descFontColor=8b949e&descAlignY=58&stroke=4f46e5&strokeWidth=2"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,30:0a0a2e,60:0d1b69,85:1a3a8f,100:00d4ff&text=Saksham%20Gupta&fontSize=60&fontColor=00d4ff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Problem%20Solver&descSize=18&descFontColor=ffffff&descAlignY=62&stroke=00d4ff&strokeWidth=1.5"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=900&lines=Hey+there!+I'm+Saksham+👋;Full+Stack+Developer+(React+%2B+Node.js);Building+AI-Powered+Solutions+🤖;Healthcare+%26+Commerce+Innovation+🚀;Always+Learning%2C+Always+Building+💡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=950&lines=👋+Hey%2C+I'm+Saksham+Gupta!;💻+Full+Stack+Developer+(React+%2B+Node.js);🤖+Building+AI-Powered+Healthcare+Solutions;🚀+Creator+of+QuickMate+%26+VaidyaVaani;⚡+Turning+Ideas+into+Scalable+Products;🌱+Always+Learning%2C+Always+Shipping!)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/saksham-gupta-6270ab296/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:samfgst3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/S-AM-GUPTA">
-  <img src="https://img.shields.io/badge/GitHub-S--AM--GUPTA-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=S-AM-GUPTA&style=for-the-badge&color=6366f1&label=Profile+Views"/>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/saksham-gupta-6270ab296/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:samfgst3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/S-AM-GUPTA"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=S-AM-GUPTA&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS"/>
+</p>
 
 <br/>
 
 ---
 
-## ⚡ Quick Snapshot
+<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-```typescript
-const saksham = {
-  name:     "Saksham Gupta",
-  role:     "Full Stack Developer",
-  location: "India 🇮🇳",
-  focus:    ["React", "Node.js", "AI-Powered Solutions"],
-  domains:  ["Healthcare Tech", "Community Platforms", "E-Commerce"],
-  mantra:   "Turning ideas into code that makes a real difference.",
+## 🧑‍💻 `whoami`
 
-  currentlyBuilding: ["QuickMate — hyper-local task marketplace",
-                      "VaidyaVaani — AI-powered healthcare assistant"],
+```bash
+┌──(saksham㉿dev)-[~]
+└─$ cat about.json
 
-  openTo:   ["Full Stack Roles", "Freelance Projects", "Open Source"],
-  contact:  "samfgst3@gmail.com",
-};
+{
+  "name"     : "Saksham Gupta",
+  "role"     : "Full Stack Developer",
+  "location" : "India 🇮🇳",
+  "education": "B.Sc. CS → MCA",
+
+  "stack"    : {
+    "frontend"  : ["React", "Next.js", "TypeScript"],
+    "backend"   : ["Node.js", "Express.js"],
+    "database"  : ["MongoDB", "MySQL"],
+    "exploring" : ["AI/ML", "Docker", "AWS"]
+  },
+
+  "building" : [
+    "QuickMate  — Hyper-local task marketplace 🤝",
+    "VaidyaVaani — AI healthcare assistant 🏥"
+  ],
+
+  "openTo"   : "Full Stack Roles & Collaborations",
+  "contact"  : "samfgst3@gmail.com"
+}
 ```
-
-<br/>
-
----
-
-## 🚀 About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 🧠 **Full-Stack Developer** specializing in **React + Node.js**
-- 🤖 Exploring **AI-powered solutions** for healthcare & commerce
-- 🏥 Building **VaidyaVaani** — multilingual healthcare voice assistant
-- 🤝 Creator of **QuickMate** — community-driven task & errand platform
-- 💡 Passionate about solving **real-world problems** with clean code
-- 📈 Currently on a **90-day web development challenge**
-- 🌱 Always learning, always pushing boundaries
-- ⚡ Fun fact: I automate everything — even my GitHub contributions 😄
 
 <br clear="right"/>
 
+---
+
+<br/>
+
+## ⚡ What Drives Me
+
+<table>
+<tr>
+<td>
+
+🔥 **Passionate** about building products people actually use
+
+🏥 **Healthcare tech** believer — VaidyaVaani is my mission
+
+🤝 **Community first** — QuickMate connects real neighbors
+
+💡 **Clean code** advocate — readable > clever
+
+📈 **90-day challenger** — shipping every single day
+
+🤖 **AI explorer** — integrating intelligence into every product
+
+</td>
+<td>
+
+```text
+🏆 Projects Shipped     : 4+
+⭐ Repos on GitHub      : 8+
+📅 Days of Coding       : 90+
+☕ Cups of Coffee       : ∞
+🐛 Bugs Fixed Today     : Many
+🚀 Currently Building   : 2
+```
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind"/>
+**Frontend**
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python"/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🗄️ Database & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"/>
+**Backend & Database**
 
-### 🔧 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma"/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -95,77 +132,79 @@ const saksham = {
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Flagship Projects
 
 <div align="center">
 <table>
 <tr>
+<td align="center" width="50%">
 
-<td width="50%">
+<img src="https://img.shields.io/badge/🤝_QuickMate-TypeScript-3178C6?style=for-the-badge"/>
 
-### 🤝 QuickMate
-**Hyper-local Community Task Platform**
+**Hyper-local Community Task Marketplace**
 
-> Connect with trusted neighborhood "Mates" for errands, tasks & local services. Built on community trust and convenience.
+Connect with trusted neighborhood "Mates" for errands, tasks & local services. Built on **trust, proximity & community**.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+`TypeScript` `React` `Node.js` `MongoDB`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/S-AM-GUPTA/QuickMate)
+[![View Project](https://img.shields.io/badge/⭐_View_Project-181717?style=for-the-badge&logo=github)](https://github.com/S-AM-GUPTA/QuickMate)
 
 </td>
+<td align="center" width="50%">
 
-<td width="50%">
+<img src="https://img.shields.io/badge/🏥_VaidyaVaani-JavaScript-F7DF1E?style=for-the-badge"/>
 
-### 🏥 VaidyaVaani
 **AI-Powered Healthcare Voice Assistant**
 
-> Multilingual healthcare assistant making medical guidance accessible to everyone. Bridging the gap between patients and healthcare using AI.
+Multilingual medical guidance for everyone. Bridging the gap between patients & healthcare using the power of **AI + Voice**.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+`JavaScript` `Node.js` `Express` `MongoDB`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/S-AM-GUPTA/VaidyaVaani)
+[![View Project](https://img.shields.io/badge/⭐_View_Project-181717?style=for-the-badge&logo=github)](https://github.com/S-AM-GUPTA/VaidyaVaani)
 
 </td>
-
 </tr>
 <tr>
+<td align="center" width="50%">
 
-<td width="50%">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Next.js-000000?style=for-the-badge"/>
 
-### 🌐 Portfolio
 **Personal Developer Portfolio**
 
-> Showcasing projects, skills, and journey as a full-stack developer. Built with Next.js, TypeScript & Tailwind CSS for a modern experience.
+Showcasing projects, skills & journey as a full-stack developer. Built with **Next.js, TypeScript & Tailwind**.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+`Next.js` `TypeScript` `Tailwind CSS`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/S-AM-GUPTA/Portfolio)
+[![View Project](https://img.shields.io/badge/⭐_View_Project-181717?style=for-the-badge&logo=github)](https://github.com/S-AM-GUPTA/Portfolio)
 
 </td>
+<td align="center" width="50%">
 
-<td width="50%">
+<img src="https://img.shields.io/badge/📚_90_Days_WebDev-HTML-E34F26?style=for-the-badge"/>
 
-### 📚 90 Days of Web Dev
-**Public Learning Challenge**
+**90 Days of Web Development**
 
-> A complete, daily record of my 90-day web development journey — covering frontend, backend, and full-stack projects with notes & code.
+A complete, daily record of my web dev journey — frontend, backend & full-stack with **daily notes & code**.
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+`HTML` `CSS` `JavaScript` `React`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/S-AM-GUPTA/90daysOfWebDevelopment)
+[![View Project](https://img.shields.io/badge/⭐_View_Project-181717?style=for-the-badge&logo=github)](https://github.com/S-AM-GUPTA/90daysOfWebDevelopment)
 
 </td>
-
 </tr>
 </table>
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=S-AM-GUPTA&theme=nord&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <br/>
@@ -176,33 +215,51 @@ const saksham = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-AM-GUPTA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-AM-GUPTA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+<img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=S-AM-GUPTA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+<img height="185em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-AM-GUPTA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=S-AM-GUPTA&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"/>
-
+<img src="https://streak-stats.demolab.com?user=S-AM-GUPTA&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideNums=ffffff&sideLabels=8b949e"/>
 </div>
 
 <br/>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-AM-GUPTA&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-AM-GUPTA&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true"/>
 </p>
 
 <br/>
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+## 🎯 2026 Roadmap
+
+<div align="center">
+
+| 🎯 Goal | Status |
+|--------|--------|
+| 🚀 Launch **QuickMate** MVP | 🔄 In Progress |
+| 🏥 Deploy **VaidyaVaani** with AI | 🔄 In Progress |
+| ⚛️ Master Advanced React & Next.js | 🔄 In Progress |
+| 🐳 Learn Docker & CI/CD Pipelines | 🔄 Learning |
+| ☁️ AWS Cloud Practitioner Cert | ⬜ Upcoming |
+| 🧠 Contribute to Open Source | ⬜ Upcoming |
+| 🔐 Learn System Design & Architecture | ⬜ Upcoming |
+| 💼 Land a Full Stack Developer Role | 🎯 **Main Goal** |
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 My Contributions, Consumed
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/S-AM-GUPTA/S-AM-GUPTA/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
@@ -212,39 +269,21 @@ const saksham = {
 
 ---
 
-## 🎯 2026 Goals
-
 <div align="center">
 
-| Goal | Status |
-|------|--------|
-| 🚀 Launch QuickMate MVP | 🔄 In Progress |
-| 🏥 Deploy VaidyaVaani | 🔄 In Progress |
-| ⚛️ Master Advanced React Patterns | 🔄 In Progress |
-| 🐳 Learn Docker & DevOps | ⬜ Upcoming |
-| ☁️ AWS Cloud Practitioner | ⬜ Upcoming |
-| 🧠 Contribute to Open Source | ⬜ Upcoming |
-| 💼 Land a Full Stack Role | 🎯 Target |
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### 💬 Dev Quote of the Day
+### 💬 Today's Dev Wisdom
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-</div>
+<br/>
+
+### 🤝 Let's Build Something Amazing Together!
+
+*Open to Full Stack Roles, Freelance Projects & Open Source Collaborations*
+
+**📬 samfgst3@gmail.com**
 
 <br/>
 
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:0f3460,30:16213e,60:1a1a2e,100:0a0a0f&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=26&fontColor=ffffff&fontAlignY=55&desc=Open%20to%20collaborations%20%7C%20samfgst3%40gmail.com&descSize=15&descFontColor=8b949e&descAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00d4ff,30:0d1b69,70:0a0a2e,100:000000&text=Keep+Coding+%E2%80%A2+Keep+Shipping+%E2%80%A2+Keep+Growing&fontSize=22&fontColor=ffffff&fontAlignY=55&desc=github.com%2FS-AM-GUPTA&descSize=14&descFontColor=00d4ff&descAlignY=78"/>
 
 </div>
