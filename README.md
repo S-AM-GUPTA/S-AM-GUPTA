@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,30:0a0a2e,60:0d1b69,85:1a3a8f,100:00d4ff&text=Saksham%20Gupta&fontSize=60&fontColor=00d4ff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Problem%20Solver&descSize=18&descFontColor=ffffff&descAlignY=62&stroke=00d4ff&strokeWidth=1.5"/>
+<img src="./matrix.svg" width="100%" alt="Matrix Banner"/>
 </div>
 
 <div align="center">
@@ -266,10 +266,10 @@ A complete, daily record of my web dev journey — frontend, backend & full-stac
 
 ---
 
-## ⚡ Entering The Matrix
+## 🕹️ GitHub Contribution Arcade
 
 <p align="center">
-  <img src="./matrix.svg" width="100%" alt="Matrix Animation"/>
+  <img src="./pacman.svg" width="100%" alt="Pac-Man Arcade"/>
 </p>
 
 <br/>
