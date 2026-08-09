@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="320" style="border-radius:16px;margin-left:20px;margin-bottom:10px;border:2px solid #00d4ff22;box-shadow:0 0 30px #00d4ff33;" src="./portrait.png" alt="Saksham Gupta"/>
 
 ## 🧑‍💻 `whoami`
 
