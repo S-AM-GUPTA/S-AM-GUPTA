@@ -266,10 +266,14 @@ A complete, daily record of my web dev journey — frontend, backend & full-stac
 
 ---
 
-## 🐍 My Contributions, Consumed
+## 🌊 My Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/S-AM-GUPTA/S-AM-GUPTA/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://ghchart.rshah.org/00d4ff/S-AM-GUPTA" alt="Saksham's Contribution Chart" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d1b69,100:0d1117&height=2&width=100%"/>
 </p>
 
 <br/>
