@@ -21,7 +21,10 @@
 
 ---
 
-<img align="right" width="320" style="border-radius:16px;margin-left:20px;margin-bottom:10px;border:2px solid #00d4ff22;box-shadow:0 0 30px #00d4ff33;" src="./portrait.png" alt="Saksham Gupta"/>
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ## 🧑‍💻 `whoami`
 
@@ -51,6 +54,15 @@
   "contact"  : "samfgst3@gmail.com"
 }
 ```
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="./portrait.png" width="100%" style="border-radius:18px;border:1.5px solid #00d4ff33;" alt="Saksham Gupta"/>
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
